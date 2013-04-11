@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jkeck/date_range_solr_query.png?branch=master)](https://travis-ci.org/jkeck/date_range_solr_query)
+
 # DateRangeSolrQuery
 
 Given a start date, end date, and solr field this gem will return a string that can be sent to Solr as a range query.
